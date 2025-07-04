@@ -41,6 +41,11 @@ portfolio/
     └── resume.pdf
 📬 Contact
 Feel free to connect with me:
+
 📧 Email: nivethidhanivi@gmail.com
+
+
 🔗 LinkedIn: https://www.linkedin.com/in/nivethidha-srinivasan-6b68b9269/?trk=opento_sprofile_details
+
+
 🐙 GitHub: NivethidhaSrinivasan
